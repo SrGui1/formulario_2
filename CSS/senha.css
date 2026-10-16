@@ -1,0 +1,17 @@
+.container {    
+
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    background-color: rgb(151, 177, 168);
+    border-radius: 12px;
+}
+
+button {
+    background: rgb(187, 230, 101);
+}
+
+a {
+    text-decoration: none;
+    border: 0px solid rgb(151, 177, 168);
+}
